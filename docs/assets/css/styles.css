@@ -1,0 +1,143 @@
+.img_button {
+  width: 20px;
+  margin: 5px;
+}
+
+#logo {
+  width: 200px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-expand-md .navbar-nav .dropdown-menu {
+  background: rgb(0,0,0);
+  color: rgb(255,255,255);
+}
+
+.dropdown-item {
+  display: block;
+  width: 100%;
+  padding: .25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+
+#text_on_white {
+  font-weight: 100;
+  font-size: 20px;
+  padding-top: 14px;
+}
+
+.section_grey {
+  background: #dfdfdf;
+}
+
+#heading_white {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  color: rgb(255,255,255);
+  padding-top: 50;
+}
+
+.nav-item.dropdown {
+  margin-right: 5px;
+  margin-left: 10px;
+}
+
+.nav-item {
+  margin-left: 10px;
+  margin-right: 5px;
+}
+
+.h3, h3 {
+  font-size: 28px;
+  color: rgb(0,0,0);
+}
+
+.h2, h2 {
+  font-size: 40px;
+  color: rgb(0,0,0);
+  padding-bottom: 30px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+img {
+  margin: 10px;
+}
+
+.d-xl-flex.align-items-xl-center {
+}
+
+.row.row-cols-3 {
+  height: 30px;
+}
+
+.navbar.navbar-dark.navbar-expand-md.sticky-top {
+  background: #000000;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255,255,255);
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  margin-left: 0px;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  color: white;
+  background-color: #007bff;
+  border-color: #000000;
+}
+
+.card-header {
+  padding: .75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: rgba(0,0,0,0);
+  border-bottom: 0px solid rgba(0,0,0,0);
+}
+
+.nav-tabs .nav-link {
+  border: 1px solid grey;
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+  height: 90px;
+  color: rgb(8,8,8);
+  text-align: center;
+}
+
+.nav-tabs .nav-item {
+  font-size: 20px;
+  margin: 0px;
+}
+
+#tutorial-nav-item {
+  width: 140px;
+}
+
+p {
+}
+
+.h1, h1 {
+  color: rgb(0,0,0);
+  padding-bottom: 30px;
+}
+
