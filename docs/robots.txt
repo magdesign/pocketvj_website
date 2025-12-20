@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://pocketvj.com/sitemap.xml
+Sitemap: https://magdesign.github.io/pocketvj_website/sitemap.xml
